@@ -1,0 +1,18 @@
+[submodule "rfetch"]
+	path = rfetch
+	url = git@github.com:caverym/rfetch.git
+[submodule "caverym.github.io"]
+	path = caverym.github.io
+	url = git@github.com:caverym/caverym.github.io.git
+[submodule "proton-caller"]
+	path = proton-caller
+	url = git@github.com:caverym/proton-caller.git
+[submodule "cimplefetch"]
+	path = cimplefetch
+	url = git@github.com:caverym/cimplefetch.git
+[submodule "libcimply"]
+	path = libcimply
+	url = git@github.com:caverym/libcimply.git
+[submodule "plage"]
+	path = plage
+	url = git@github.com:caverym/plage.git
